@@ -1,6 +1,6 @@
 # JS Demo
 
-A "kitchen sink" single-file JavaScript file demonstrating advanced concepts like custom Promises, Virtual DOM, reactive signals, graph algorithms, and more. Built for educational purposes to understand JS internals.
+A "kitchen sink" single-file JavaScript file demonstrating advanced concepts like custom Promises, Virtual DOM, reactive signals, graph algorithms, and more.
 
 ## Features
 - Custom MicroPromise (Promise polyfill)
